@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @Hamidevity
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/43749971/169892385-71cec431-4ce1-417a-a7b6-e14d8c51c1a3.png">
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
+![NextJs](https://img.shields.io/badge/NextJs-000000?logo=Next.js&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
+![Mui](https://img.shields.io/badge/MUI-007fff?logo=MUI&logoColor=white&style=for-the-badge)
 </div>
 
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
