@@ -73,10 +73,14 @@
 </p>
 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamidevity&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidevity&layout=compact&theme=github_dark&hide_border=true&hide=css,html&langs_count=8">
-</div>
+<center>
+<table>
+  <tr>
+      <td>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidevity&layout=compact&theme=github_dark&hide_border=true&hide=css,html&langs_count=8"></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagobmarques&count_private=true&show_icons=true&theme=dracula" /></td>
+  </tr>  
+</table>
+</center>
 
 
 
